@@ -56,8 +56,7 @@ sudo apt install libcurl4-openssl-dev
 
 In R Studio, to create a new report starting from a *pagedreport* template follow these steps:
 
-+----------------------------------------------------------+------------------------------------------------------------------------+
-| ![Create a new R Markdown file\...](images/new_file.png) | ![Select from template](images/from_template.png)                      |
-+----------------------------------------------------------+------------------------------------------------------------------------+
-| 1.  Create a new **R Markdown** file.                    | 2.  Select a *pagedreport* template from the R Markdown dialog window. |
-+----------------------------------------------------------+------------------------------------------------------------------------+
+|  ![Create a new R Markdown file\...](images/new_file.png)  |  ![Select from template](images/from_template.png)  |
+|------------------------------------------------------------|-----------------------------------------------------|
+| 1.  Create a new **R Markdown** file.               |  2.  Select a *pagedreport* template from the R Markdown dialog window. |
+

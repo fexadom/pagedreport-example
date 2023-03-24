@@ -10,6 +10,16 @@ Please refer to the authors website of both packages for more details:
     -   <https://rfortherestofus.com/2022/11/no-designer-needed/>
     -   <https://rfortherestofus.com/2021/01/announcing-pagedreport/>
 
+## Example report
+
+This is an example report (pagedreport grid) in R Markdown using pagedreport:
+
+-   [example_report.Rmd](example_report.Rmd) 
+
+This is the knitted output in PDF format:
+
+-   [example_report.pdf](example_report.pdf) 
+
 ## Install
 
 The package *pagedown* is in CRAN, to install it just run this command in the R console:

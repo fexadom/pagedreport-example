@@ -6,7 +6,9 @@ Please refer to the authors website of both packages for more details:
 
 -   pagedown: <https://pagedown.rbind.io/>
 -   pagedreport: <https://pagedreport.rfortherestofus.com/>
--   Great intro and tutorial: <https://rfortherestofus.com/2022/11/no-designer-needed/>
+-   Great intro and tutorials:
+    -   <https://rfortherestofus.com/2022/11/no-designer-needed/>
+    -   <https://rfortherestofus.com/2021/01/announcing-pagedreport/>
 
 ## Install
 
@@ -49,3 +51,13 @@ sudo apt install libmagick++-dev
 ```         
 sudo apt install libcurl4-openssl-dev
 ```
+
+## Create a new report from template
+
+In R Studio, to create a new report starting from a *pagedreport* template follow these steps:
+
++----------------------------------------------------------+------------------------------------------------------------------------+
+| ![Create a new R Markdown file\...](images/new_file.png) | ![Select from template](images/from_template.png)                      |
++----------------------------------------------------------+------------------------------------------------------------------------+
+| 1.  Create a new **R Markdown** file.                    | 2.  Select a *pagedreport* template from the R Markdown dialog window. |
++----------------------------------------------------------+------------------------------------------------------------------------+

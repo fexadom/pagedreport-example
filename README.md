@@ -42,6 +42,8 @@ install.packages("remotes")
 
 ### Dependencies
 
+Pagedown uses a Chromium-based browser such as Chromium, Google Chrome, or Microsoft Edge to translate from html to pdf. Any of these browsers must therefore be installed and available on the system's path.
+
 In Ubuntu based operating systems, the following dependencies might need to be installed from the system's console:
 
 -   rsvg
@@ -69,4 +71,6 @@ In R Studio, to create a new report starting from a *pagedreport* template follo
 |  ![Create a new R Markdown file\...](images/new_file.png)  |  ![Select from template](images/from_template.png)  |
 |------------------------------------------------------------|-----------------------------------------------------|
 | 1.  Create a new **R Markdown** file.               |  2.  Select a *pagedreport* template from the R Markdown dialog window. |
+
+After modifying the template, simply press the **Knit** button to generate the pdf report.
 
